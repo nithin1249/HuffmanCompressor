@@ -22,7 +22,13 @@ This project implements the **Huffman Coding algorithm** to provide a robust com
 
 ---
 
-
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=9xVuE7TC7iM">
+   <img src="https://img.youtube.com/vi/9xVuE7TC7iM/hqdefault.jpg" alt="Huffman Compressor Demo" width="80%">
+  </a>
+  <br>
+  <em>Click to watch the HuffMan Compressor Demo</em>
+</p>
 
 ---
 
