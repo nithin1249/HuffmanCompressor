@@ -5,6 +5,7 @@
 #include <fstream>
 #include "Huffman.h"
 #include "Node.h"
+#include <cstring>
 
 
 // ---------- CONSTRUCTOR ---------------------------------------------------------------

@@ -1,5 +1,5 @@
 [![Build Status](https://github.com/nithin1249/Huffman/actions/workflows/build.yml/badge.svg)](https://github.com/nithin1249/Huffman/actions/workflows/build.yml)
-# Huffman Compressor: High-Performance Systems Utility
+# Huffman Compressor
 
 ![Language](https://img.shields.io/badge/language-C%2B%2B17-blue.svg)
 ![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey)
