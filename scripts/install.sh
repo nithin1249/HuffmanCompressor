@@ -2,7 +2,7 @@
 
 # --- Configuration ---
 INSTALL_DIR="$HOME/.huff_toolchain"
-SOURCE_DIR="$(cd "$(dirname "$0")"/.. && pwd)" # Assumes script is in scripts/
+SOURCE_DIR="$(cd "$(dirname "$0")" && pwd)"
 OS="$(uname -s)"
 COMMAND_NAME="huff"
 

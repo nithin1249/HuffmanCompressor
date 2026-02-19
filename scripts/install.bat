@@ -7,7 +7,7 @@ echo ==========================================
 
 :: 1. Configuration
 :: Assuming script is in /scripts, we look one level up for the bin folder
-set "SOURCE_DIR=%~dp0..\"
+set "SOURCE_DIR=%~dp0"
 set "INSTALL_DIR=%USERPROFILE%\.huff_toolchain"
 
 :: 2. Create Destination Folders
