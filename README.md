@@ -10,7 +10,7 @@ A professional-grade, cross-platform systems utility for lossless data compressi
 
 This project implements the **Huffman Coding algorithm** to provide a robust command-line tool for file size reduction. Developed with a "Systems Engineering" mindset, it features bit-level manipulation, custom binary serialization, and a fully automated CI/CD toolchain for global distribution.
 
-**[📥 Download Latest Release](https://github.com/nithin1249/Huffman/releases)** ---
+**[📥 Download Latest Release](https://github.com/nithin1249/HuffmanCompressor/releases)** ---
 
 ## 🚀 Key Features & Performance
 
@@ -47,7 +47,7 @@ The utility follows a high-performance three-stage pipeline designed for reliabi
 ## 📦 Installation
 
 ### 1. Download
-Get the latest `Huffman-OS.zip` from the **[Releases Page](https://github.com/nithin1249/Huffman/releases)**.
+Get the latest `Huffman-OS.zip` from the **[Releases Page](https://github.com/nithin1249/HuffmanCompressor/releases)**.
 
 ### 2. Folder Contents:
 - `bin/`      : Pre-compiled binaries for Windows, macOS, and Linux.
